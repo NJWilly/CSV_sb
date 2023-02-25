@@ -1,5 +1,6 @@
 Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,Faculty/Staff,Department/Office,# of Years at the School of Nursing,Dietary Restrictions,Attendance,Date Created
-1,,Kyle D.,Warren,,,kyle.warren@rutgers.edu,Staff,Administration and Student Affairs,12,Shellfish,I Will Attend,2023-02-09 17:24:32
+Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,Faculty/Staff,Department/Office,# of Years at the School of Nursing,Dietary Restrictions,Attendance,Date Created
+1,,Kyle D.,Warren,asdf,,kyle.warren@rutgers.edu,Staff,Administration and Student Affairs,12,Shellfish,I Will Attend,2023-02-09 17:24:32
 2,,Linda,Hassler,Assistant Professor,,ljh7@sn.rutgers.edu,Faculty,Baccaluarate division,NINE,"lactose intolerance, skim for coffee please",I Will Attend,2023-02-09 23:13:37
 3,,Olga,Jarrín Montaner/,Associate Professor,,olga.jarrin@rutgers.edu,Faculty,Nursing Science,7,,I Will Attend,2023-02-09 23:27:47
 4,Dr.,Wendy,Budin,Professor and Associate Dean,,wendy.budin@rutgers.edu,Faculty,Baccalaureate Division,6,,I Will Attend,2023-02-09 23:33:04
@@ -14,13 +15,13 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 13,,Krizia,Ko,EOF Developmental Specialist ,,krizia@sn.rutgers.edu,Staff,EOF,3,,I Will Attend,2023-02-10 07:09:59
 14,,Mary,Johansen,Dr.,,mjohanse@sn.rutgers.edu,Faculty,Nursing Science ,18,,I Will Attend,2023-02-10 07:34:52
 15,,Mylka,Benitez,SON IRB Manager,,biascomy@sn.rutgers.edu,Staff,Nursing Science,4,None,I Will Attend,2023-02-10 07:38:17
-16,,SHARON,ANDERSON,"DNP, APN, NNP-BC, AGN-BC, CNE",she/her/hers,sharon.anderson@rutgers.edu,Faculty,Advanced Practice,15,,I Will Attend,2023-02-10 07:38:24
+16,,Sharon,Anderson,asdf,she/her/hers,sharon.anderson@rutgers.edu,Faculty,Advanced Practice,15,,I Will Attend,2023-02-10 07:38:24
 17,,Phedra,Deonarine,Administrative Assistant,,phedrad@sn.rutgers.edu,Staff,Student Engagement,2,,I Will Attend,2023-02-10 07:50:21
 18,,Karen,Muller,Associate Director for Faculty Administration,,mullerkh@sn.rutgers.edu,Staff,Faculty & Staff Resources,1,,I Will Attend,2023-02-10 07:55:24
 19,,Edna,Cadmus,Dr.,,ednacadm@sn.rutgers.edu,Faculty,Advanced Practice,12,,I Will Attend,2023-02-10 07:58:02
 20,,Laura,Mularz,Dr,,laura.mularz@rutgers.edu,Faculty,Advanced Practice,1.5,none,I Will Attend,2023-02-10 07:59:11
 21,,Kyeongra,Yang,Associate Professor,,ky204@sn.rutgers.edu,Faculty,Entry to Baccalaureate Nursing Division,6 yrs,,I Will Attend,2023-02-10 08:07:51
-22,,sue,willard,Clinical professor,,sw488@sn.rutgers.edu,Faculty,Nursing,11,,I Will Attend,2023-02-10 08:17:41
+22,,Sue,Willard,Clinical professor,,sw488@sn.rutgers.edu,Faculty,Nursing,11,,I Will Attend,2023-02-10 08:17:41
 23,,Glenn,Murphy,Mr.,,glenn.murphy@rutgers.edu,Faculty,Nursing,1.5,,I Will Not Attend,2023-02-10 08:18:22
 24,,Emily,Dembosky,DNS Department Administrator,,ead221@sn.rutgers.edu,Staff,Division of Nursing Science/202 Ackerman Hall,in my first year,None,I Will Attend,2023-02-10 08:31:06
 25,,Kim,Prado,Clinical Assistant Professor/Specialty Director AGPC program,,Kimberly.Prado@Rutgers.edu,Faculty,Division of Advanced Nursing Practice/ office 1136 Stanley Bergen Building,12 years,,I Will Attend,2023-02-10 08:37:30
@@ -31,9 +32,9 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 30,,Christine,Goldthwaite,Associate Director,she/her,christine.goldthwaite@rutgers.edu,Staff,Rutgers Center for Organizational Leadership,n/a,none,I Will Attend,2023-02-10 08:55:04
 31,Dr,Gerti,Heider,Assoc Prof,,heiderge@sn.rutgers.edu,Faculty,Advanced Practice,23,,I Will Not Attend,2023-02-10 08:56:58
 32,,Gregory ,Hughes,Admissions Coordinator ,,gh209@sn.rutgers.edu,Staff,Admissions and Recruitment ,4,N?A,I Will Attend,2023-02-10 08:58:28
-33,,Jamie,Steiger,"Director, Administration and Finance, FXB Center",,steigejl@sn.rutgers.edu,Staff,FXB Center,18,,I Will Attend,2023-02-10 09:05:04
+33,,Jamie,Steiger,asdf,,steigejl@sn.rutgers.edu,Staff,FXB Center,18,,I Will Attend,2023-02-10 09:05:04
 34,,Robyn,Schafer,Assistant Professor,,robyn.schafer@rutgers.edu,Faculty,Advanced Practice,4,kosher,I Will Attend,2023-02-10 09:06:27
-35,,nina,colabelli,"Director, Child Health Program/Child and Family Nurse Program",,colabenb@sn.rutgers.edu,Staff,FXBC,25,,I Will Attend,2023-02-10 09:07:31
+35,,Nina,Colabelli,"Director, Child Health Program/Child and Family Nurse Program",,colabenb@sn.rutgers.edu,Staff,FXBC,25,,I Will Attend,2023-02-10 09:07:31
 36,,Cassandra,Taluy,Staff Assistant ,,ct735@sn.rutgers.edu,Staff,Student Affairs,5 months,,I Will Attend,2023-02-10 09:15:06
 37,,Jeannette,Manchester,"Assistant Dean, Assistant Professor",,jeannette.manchester@rutgers.edu,Faculty,"Center for Educational Research and Innovation, Center for Professional Development, Center for Clinical Learning, Advanced Practice Division",7,None,I Will Attend,2023-02-10 09:23:30
 38,,Theresa,Pankiewicz,Employment Coordinator,,theresa.pankiewicz@rutgers.edu,Staff,Faculty and Staff Resources,1.5,none,I Will Attend,2023-02-10 09:46:20
@@ -96,7 +97,7 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 95,,Shira,Birnbaum ,Associate professor ,,shira.birnbaum@rutgers.edu,Faculty,Nursing science,0.8,,I Will Attend,2023-02-15 22:09:54
 96,,Susan,Garcia,Clinical Coordinator,,sugarcia@sn.rutgers.edu,Staff,FXB Center,6,,I Will Attend,2023-02-15 22:33:20
 97,,Linda,Herrmann,Specialty Director AGAC NP Program,,llh99@sn.rutgers.edu,Faculty,Advanced Nursing Practice Division,1,vegetarian,I Will Attend,2023-02-16 01:33:58
-98,,sue,willard,Clinical professor,,sw488@sn.rutgers.edu,Faculty,Blackwood,12,,I Will Attend,2023-02-16 06:37:14
+98,,Sue,Willard,Clinical professor,,sw488@sn.rutgers.edu,Faculty,Blackwood,12,,I Will Attend,2023-02-16 06:37:14
 99,,Traci,Cummings-McGreal,Academic Advisor,,tc913@sn.rutgers.edu,Staff,Student Affairs - the Advisement Center ,1,Vegan ,I Will Attend,2023-02-16 06:40:36
 100,,Johanna,Stephenson,Assistant Dean,,johanna.stephenson@rutgers.edu,Staff,Office of Faculty and Staff Resources,7,,I Will Attend,2023-02-16 07:06:02
 101,,Navana ,Taylor-Porter,Department administrator,Her/She,taylor.porter@rutgers.edu,Staff,Office of Faculty & Staff Resources,8,None ,I Will Attend,2023-02-16 07:13:31
@@ -106,11 +107,11 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 105,,Miriam,Mendez,Administrative Specialist,,mm122@sn.rutgers.edu,Staff,Entry to Baccalaureate Practice Division,4,m/a,I Will Not Attend,2023-02-16 08:00:46
 106,,Suzan,Ahmad,Assistant Professor,,swa23@sn.rutgers.edu,Faculty,Advanced Practice ,3,,I Will Attend,2023-02-16 08:08:00
 107,,Nadia,Rago Iddrisu,Department Administrator,,nrago@rutgers.edu,Staff,Administration and Student Affairs,9.5,,I Will Attend,2023-02-16 08:17:17
-108,,Nicole,Cerussi,"Clinical Assistant Professor, DNP, PMHNP-BC",,nicole.cerussi@rutgers.edu,Faculty,"Advanced Nursing Practice, Psychiatric-Mental Health",less than 1,,I Will Attend,2023-02-16 08:21:22
+108,,Nicole,Cerussi,asdf,,nicole.cerussi@rutgers.edu,Faculty,"Advanced Nursing Practice, Psychiatric-Mental Health",less than 1,,I Will Attend,2023-02-16 08:21:22
 109,,Andrea,Norberg,Executive Director FXB Center,,norberan@sn.rutgers.edu,Staff,FXB Center,20,,I Will Attend,2023-02-16 08:23:07
 110,,John,Nelson,National Training Director,he/him/his,nelsonj3@sn.rutgers.edu,Staff,FXB Center,10,vegan,I Will Attend,2023-02-16 08:27:40
 111,,Laila,Uddin,Unit Admin. Specialist,,sku4@sn.rutgers.edu,Staff,Clinical Compliance,4 months,,I Will Attend,2023-02-16 08:30:24
-112,,karina,sammy,CPD,,karina.sammy@rutgers.edu,Staff,CPD,0.5,,I Will Attend,2023-02-16 08:33:26
+112,,Karina,Sammy,CPD,,karina.sammy@rutgers.edu,Staff,CPD,0.5,,I Will Attend,2023-02-16 08:33:26
 113,,Barbara,Cannella,"Assistant Dean, Clinical Associate Professor",,cannella@rutgers.edu,Faculty,Entry to Baccalaureate Practice,29,,I Will Attend,2023-02-16 08:51:14
 114,,Thomas,Loveless,Clinical Associate Professor,,tjl116@sn.rutgers.edu,Faculty,SON Adv Pract Division,9,none,I Will Attend,2023-02-16 08:56:50
 115,,Denise,Santangelo,Senior Administrative Assistant,,santange@sn.rutgers.edu,Staff,Entry to Baccalaureate Practice,23,,I Will Attend,2023-02-16 09:03:00
@@ -129,7 +130,7 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 128,,Barbara,Miranda,Admissions Counselor ,,mirandbl@sn.rutgers.edu,Staff,Office of Admissions and Recruitment ,15,,I Will Attend,2023-02-16 14:05:33
 129,,Bernadette,Power,Assistant Director of Instructional Design,She/Her/Hers,bpower@rutgers.edu,Staff,SON IT-Admins,3,N/A,I Will Attend,2023-02-17 08:07:46
 130,,Annie,Pajaro,Assistant Professor,,ap1798@sn.rutgers.edu,Faculty,CCL,3,,I Will Attend,2023-02-17 09:27:54
-131,,MARY,THOMAS,instructor,,marythomasmuffins@gmail.com,Faculty,ccl,2,none,I Will Attend,2023-02-17 11:33:24
+131,,Mary,Thomas,instructor,,marythomasmuffins@gmail.com,Faculty,ccl,2,none,I Will Attend,2023-02-17 11:33:24
 132,,Liezza,Roldan,Administrative Coordinator,,lsalgado@sn.rutgers.edu,Staff,Administration and Student Affairs,5,,I Will Attend,2023-02-17 12:46:14
 133,,Virginia,Gazzale,Program Assistant,,vb236@sn.rutgers.edu,Faculty,ANP,0,,I Will Attend,2023-02-17 13:07:07
 134,,Aline,Holmes,Clinical Associate Professor,,aline.holmes@rutgers.com,Faculty,nursing,3,,I Will Attend,2023-02-19 10:22:38
@@ -137,10 +138,10 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 136,,Dawn,Slowinski,Clinical Instructor,,slowinpd@sn.rutgers.edu,Faculty,Blackwood,7,"allergic to broccoli, strawberries, bananas, and mushrooms",I Will Attend,2023-02-20 11:10:58
 137,,Laura,Buchmann,Associate Program Manager of Sponsored Programs,,lb713@sn.rutgers.edu,Staff,Research Services,3.5 years,none,I Will Attend,2023-02-20 13:47:14
 138,,William,Noel,Unit Computing Specialist,,wnoel@sn.rutgers.edu,Staff,DoTNET,23,,I Will Attend,2023-02-21 08:37:13
-139,,odalis ,stahl,Program Coordinator,,Os161@sn.rutgers.edu,Staff,Facilities,4,none,I Will Attend,2023-02-21 11:44:21
+139,,Odalis ,Stahl,Program Coordinator,,Os161@sn.rutgers.edu,Staff,Facilities,4,none,I Will Attend,2023-02-21 11:44:21
 140,,Steven,Glogocheski,Executive Director of Institutional Research and Sponsored Programs,,swg33@sn.rutgers.edu,Staff,Research Services,6,,I Will Attend,2023-02-21 12:39:13
 141,,Carolyn,Hayes,associate professor,,ch937@cinj.rutgers.edu,Faculty,cno at RCINJ/RWJBH Oncology,3,,I Will Not Attend,2023-02-22 08:46:59
-142,,JUDE,JILUS,MR,,JJ583@SN.RUTGERS.EDU,Staff,SSB IST,5,,I Will Attend,2023-02-22 10:29:20
+142,,Jude,Jilus,MR,,JJ583@SN.RUTGERS.EDU,Staff,SSB IST,5,,I Will Attend,2023-02-22 10:29:20
 143,,Rosario,Reyes-Urbina,Senior Executive Assistant to the Dean,,rosario.reyesurbina@gmail.com,Staff,Office of the Dean,7,,I Will Attend,2023-02-22 11:11:44
 144,,Helen,Olajitan,RN,,ho103@sn.rutgers.edu,Faculty,CCL,1,,I Will Attend,2023-02-22 12:02:55
 145,,Linda,Curley,Clinical Learning Coordinator ,,linda.curley@sn.rutgers.edu,Faculty,CEnter for Clinical Learning,7.5,None,I Will Attend,2023-02-22 18:21:15
@@ -154,7 +155,7 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 153,,Kim,Prado,"Assistant Professor,  Specialty Program Director AGPC",,Kimberly.Prado@Rutgers.edu,Faculty,Division of Advance Nursing Practice,12 years,,I Will Attend,2023-02-22 21:44:11
 154,,Haiqun,Lin,Professor,,haiqun.lin@rutgers.edu,Faculty,Nursing Science,3.5,,I Will Attend,2023-02-22 22:08:47
 155,,Sallie,Porter,Associate Professor ,,portersa@sn.rutgers.edu,Faculty,Anp,11,,I Will Not Attend,2023-02-23 01:14:49
-156,,EMILIA,IWU,"Assistant Dean, Center for Global Health ",,iwu@sn.rutgers.edu,Faculty,Nursing Science ,9,,I Will Attend,2023-02-23 03:18:57
+156,,Emilia,Iwu,"Assistant Dean, Center for Global Health ",,iwu@sn.rutgers.edu,Faculty,Nursing Science ,9,,I Will Attend,2023-02-23 03:18:57
 157,,Vanessa,Vega,Project Manager,,vanessa.vega@rutgers.edu,Staff,Center for Clinical Learning,0,,I Will Attend,2023-02-23 08:26:10
 158,,Julianna,Marulanda,Senior Financial Analyst,,jm2161@sn.rutgers.edu,Staff,Business Office ,~1,,I Will Attend,2023-02-23 08:35:30
 159,,Vivian,Molina,Manager of Student Clinical Compliance,,vm495@sn.rutgers.edu,Staff,Office of Cliniical Compliance,4,,I Will Attend,2023-02-23 09:04:00
@@ -166,7 +167,7 @@ Entry Id,Honorific (if preferred),Name,Last,Title,Pronouns (if preferred),Email,
 165,,Rowena,Curva,Center for Clinical Learning Facilitator,,rowenac@sn.rutgers.edu,Faculty,Center for Clinical Learning,8,,I Will Attend,2023-02-23 09:33:20
 166,,Genesie,Burgos,Associate Registrar,,burgosgm@sn.rutgers.edu,Staff,Registrar's office,17,,I Will Not Attend,2023-02-23 10:08:34
 167,,Damaris,Perez,Staff Assistant,,gonzald3@sn.rutgers.edu,Staff,SON/FXBC/Child Health Program,9,None,I Will Attend,2023-02-23 10:56:54
-168,,genevieve,weathers,Sr Financial Analyst,,gaw@SN.rutgers.edu,Staff,Finance,5,,I Will Attend,2023-02-23 11:15:53
+168,,Genevieve,Weathers,Sr Financial Analyst,,gaw@SN.rutgers.edu,Staff,Finance,5,,I Will Attend,2023-02-23 11:15:53
 169,,Asante,Barr,Acting Director of IT and ID,,aqb4@sn.rutgers.edu,Staff,DoTNET,6,none,I Will Attend,2023-02-23 11:22:11
 170,,Joseph ,Castellanos,IT Specialist ,,jc3179@sn.rutgers.edu,Faculty,School of Nursing ,1,,I Will Attend,2023-02-23 11:22:44
 171,,Erica,Williams ,Program Support Specialist ,,williaer@sn.rutgers.edu,Staff,FXB Center ,29,None ,I Will Attend,2023-02-23 11:33:46
