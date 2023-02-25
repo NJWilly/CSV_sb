@@ -2,10 +2,11 @@
 # https://docs.python.org/3/library/csv.html
 import csv
 import string
-
+from random import randrange
 
 name_allowed_s = list(string.ascii_uppercase) + list(string.ascii_lowercase) + ['\'', ' ', '-', '.', 'í']
 title_allowed_s = list(string.ascii_uppercase) + list(string.ascii_lowercase) + ['\'', ' ', '-', '.', 'í', '/', ',']
+number_of_tables = 21
 
 def process_csv():
     # load from csv file
@@ -14,8 +15,7 @@ def process_csv():
         csv_data = list(reader)
 
     # save header row
-    fixed_data = []
-    fixed_data.append(csv_data[0])
+    fixed_data = [csv_data[0] + ['Table']]
 
     # loop through the loaded csv one row at a time
     for row in csv_data:
@@ -50,7 +50,14 @@ def process_csv():
             if row[4].count(',') > 1:
                 row[4] = input(f'\n{row[3]}, {row[2]} has too many commas in their title.  {row[4]} '
                                f'Perhaps they listed their credential instead? Enter corrected title: ')
-            fixed_data.append(row)
+
+            # TODO: if the honorific is blank and title is Dr Dr. Mr. Mr Ms. Ms Mrs Mrs., move it over
+
+            # assign a random table number
+            # TODO: keep count of how many at each table and make sure no more than 7 are assigned
+            fixed_data.append(row + [randrange(number_of_tables) + 1])
+
+
 
     # output csv file
     with open('webform-fixed.csv', 'w', newline='') as f:
@@ -65,7 +72,7 @@ if __name__ == '__main__':
 
     # TODO: create list of dietary restrictions
     #
-    # TODO: assign table numbers
+    # TODO: create file by table numbers
 
 
 
